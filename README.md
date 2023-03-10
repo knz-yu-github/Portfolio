@@ -10,6 +10,6 @@
 
 ・Clone画面となります
 
-　(Local,httpsを選択していることを確認)
+　(Local,httpsを選択していることを確認)(初期選択です)
  
 ・一番下の[Download Zip]をクリック
